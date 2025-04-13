@@ -1,0 +1,15 @@
+{
+    "name": "Automatic Cloze cards",
+    "package": "AutomaticCloze",
+    "ankiweb_id": "",
+    "conf": true,
+    "conf_ui": true,
+    "author": "liwoe",
+    "version": "1.0.0",
+    "homepage": "https://github.com/liwoe/AutomaticClozeCards",
+    "conflicts": [
+        "basic2cloze"
+    ],
+    "mod": 1668519252,
+    "min_point_version": 28
+}

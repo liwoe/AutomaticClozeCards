@@ -1,0 +1,1 @@
+{"mod": 1668519469, "name": "Automatic Cloze cards", "homepage": "https://github.com/liwoe/AutomaticClozeCards", "min_point_version": 28, "conflicts": ["basic2cloze"], "max_point_version": 54, "branch_index": 0, "disabled": false, "config": {"target_model_id": 1546711312639, "source_model_ids": [1546704436156, 1722530894266]}}
