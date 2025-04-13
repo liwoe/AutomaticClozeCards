@@ -30,8 +30,7 @@ For advanced users:
 
 ## Installation
 
-1.  (Describe the installation steps.  This might involve getting the add-on from AnkiWeb or installing from a file.)
-2.  ...
+1.  See https://ankiweb.net/shared/info/1703542984
 
 ## Dependencies
 
